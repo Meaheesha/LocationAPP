@@ -1,0 +1,739 @@
+[
+  {
+    "solution_group_id": 3,
+    "solution_group_name": "Advanced Interoperability Service",
+    "solution_ids": [3]
+  },
+  {
+    "solution_group_id": 6,
+    "solution_group_name": "Application Services",
+    "solution_ids": [6]
+  },
+  {
+    "solution_group_id": 9,
+    "solution_group_name": "Bridge",
+    "solution_ids": [9, 12, 15, 18, 21]
+  },
+  {
+    "solution_group_id": 12,
+    "solution_group_name": "Business Continuity",
+    "solution_ids": [24, 27]
+  },
+  {
+    "solution_group_id": 15,
+    "solution_group_name": "Capacity Management",
+    "solution_ids": [30, 33, 36, 39, 42]
+  },
+  {
+    "solution_group_id": 18,
+    "solution_group_name": "CareAware Connect",
+    "solution_ids": [45]
+  },
+  {
+    "solution_group_id": 21,
+    "solution_group_name": "CareAware Connect Nursing",
+    "solution_ids": [48]
+  },
+  {
+    "solution_group_id": 24,
+    "solution_group_name": "CareAware Device Integration",
+    "solution_ids": [51, 54, 57, 60]
+  },
+  {
+    "solution_group_id": 27,
+    "solution_group_name": "CareAware Device Integration Solutions",
+    "solution_ids": [63, 66, 69, 72, 75, 78]
+  },
+  {
+    "solution_group_id": 30,
+    "solution_group_name": "CareAware MultiMedia",
+    "solution_ids": [81]
+  },
+  {
+    "solution_group_id": 33,
+    "solution_group_name": "CareDecisions",
+    "solution_ids": [84, 87, 90, 93, 96]
+  },
+  {
+    "solution_group_id": 36,
+    "solution_group_name": "Cerner Ignite",
+    "solution_ids": [99]
+  },
+  {
+    "solution_group_id": 39,
+    "solution_group_name": "Cerner Intelligence",
+    "solution_ids": [102]
+  },
+  {
+    "solution_group_id": 42,
+    "solution_group_name": "Cerner OPENLink",
+    "solution_ids": [105]
+  },
+  {
+    "solution_group_id": 45,
+    "solution_group_name": "Chart Search",
+    "solution_ids": [108]
+  },
+  {
+    "solution_group_id": 48,
+    "solution_group_name": "Clairvia",
+    "solution_ids": [111]
+  },
+  {
+    "solution_group_id": 51,
+    "solution_group_name": "Clinical Content",
+    "solution_ids": [114, 117, 120, 123]
+  },
+  {
+    "solution_group_id": 54,
+    "solution_group_name": "Cloud Identity and Access Management",
+    "solution_ids": [126]
+  },
+  {
+    "solution_group_id": 57,
+    "solution_group_name": "Consumer Engagement",
+    "solution_ids": [129, 132, 135]
+  },
+  {
+    "solution_group_id": 60,
+    "solution_group_name": "Core HealtheIntent",
+    "solution_ids": [138, 141]
+  },
+  {
+    "solution_group_id": 63,
+    "solution_group_name": "Core Millennium",
+    "solution_ids": [
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162,
+      165,
+      168,
+      171,
+      174,
+      177,
+      180,
+      183
+    ]
+  },
+  {
+    "solution_group_id": 66,
+    "solution_group_name": "Core Soarian",
+    "solution_ids": [186]
+  },
+  {
+    "solution_group_id": 69,
+    "solution_group_name": "Custom Reporting",
+    "solution_ids": [189, 192]
+  },
+  {
+    "solution_group_id": 72,
+    "solution_group_name": "Data Formation",
+    "solution_ids": [195]
+  },
+  {
+    "solution_group_id": 75,
+    "solution_group_name": "Device Integration - Rx",
+    "solution_ids": [198, 201]
+  },
+  {
+    "solution_group_id": 78,
+    "solution_group_name": "Diagnostic Imaging",
+    "solution_ids": [204, 207]
+  },
+  {
+    "solution_group_id": 81,
+    "solution_group_name": "Discern",
+    "solution_ids": [210, 213, 216, 219]
+  },
+  {
+    "solution_group_id": 84,
+    "solution_group_name": "Document Imaging",
+    "solution_ids": [222, 225, 228]
+  },
+  {
+    "solution_group_id": 87,
+    "solution_group_name": "EMR - Analytics",
+    "solution_ids": [231, 234, 237, 240, 243, 246, 249, 252, 255, 258, 261]
+  },
+  {
+    "solution_group_id": 90,
+    "solution_group_name": "FetaLink",
+    "solution_ids": [264]
+  },
+  {
+    "solution_group_id": 93,
+    "solution_group_name": "FetaLink+",
+    "solution_ids": [267]
+  },
+  {
+    "solution_group_id": 96,
+    "solution_group_name": "Genomics",
+    "solution_ids": [270]
+  },
+  {
+    "solution_group_id": 99,
+    "solution_group_name": "Global Translation",
+    "solution_ids": [273]
+  },
+  {
+    "solution_group_id": 102,
+    "solution_group_name": "HDX",
+    "solution_ids": [276, 279, 282, 285, 288, 291, 294, 297]
+  },
+  {
+    "solution_group_id": 105,
+    "solution_group_name": "Health Data",
+    "solution_ids": [300, 303, 306]
+  },
+  {
+    "solution_group_id": 108,
+    "solution_group_name": "HealtheAthlete",
+    "solution_ids": [309]
+  },
+  {
+    "solution_group_id": 111,
+    "solution_group_name": "HealtheIntent Platform",
+    "solution_ids": [312, 315]
+  },
+  {
+    "solution_group_id": 114,
+    "solution_group_name": "HealtheIntent Tools",
+    "solution_ids": [318, 321]
+  },
+  {
+    "solution_group_id": 117,
+    "solution_group_name": "HEP",
+    "solution_ids": [324]
+  },
+  {
+    "solution_group_id": 120,
+    "solution_group_name": "Home and Community Care",
+    "solution_ids": [327, 330, 333, 336]
+  },
+  {
+    "solution_group_id": 123,
+    "solution_group_name": "HS - European",
+    "solution_ids": [339, 342, 345, 348, 351, 354, 357, 360, 363, 366, 369, 372]
+  },
+  {
+    "solution_group_id": 126,
+    "solution_group_name": "HS Document Management",
+    "solution_ids": [375]
+  },
+  {
+    "solution_group_id": 129,
+    "solution_group_name": "HS Legacy - Clinical",
+    "solution_ids": [378, 381, 384, 387, 390, 393]
+  },
+  {
+    "solution_group_id": 132,
+    "solution_group_name": "HS Legacy - RevCycle",
+    "solution_ids": [396, 399, 402, 405, 408, 411, 414]
+  },
+  {
+    "solution_group_id": 135,
+    "solution_group_name": "iAware Clinical",
+    "solution_ids": [417, 420, 423, 426]
+  },
+  {
+    "solution_group_id": 138,
+    "solution_group_name": "Innovation",
+    "solution_ids": [429, 432, 435]
+  },
+  {
+    "solution_group_id": 141,
+    "solution_group_name": "Integrated Solutions",
+    "solution_ids": [438, 441, 444, 447]
+  },
+  {
+    "solution_group_id": 144,
+    "solution_group_name": "InterMedHx",
+    "solution_ids": [450]
+  },
+  {
+    "solution_group_id": 147,
+    "solution_group_name": "Interoperability",
+    "solution_ids": [453, 456, 459]
+  },
+  {
+    "solution_group_id": 150,
+    "solution_group_name": "Labotix",
+    "solution_ids": [462]
+  },
+  {
+    "solution_group_id": 153,
+    "solution_group_name": "Learning Services",
+    "solution_ids": [465, 468, 471]
+  },
+  {
+    "solution_group_id": 156,
+    "solution_group_name": "Legacy RevCycle",
+    "solution_ids": [474, 477, 480, 483, 486, 489, 492, 495]
+  },
+  {
+    "solution_group_id": 159,
+    "solution_group_name": "LightsOn Network",
+    "solution_ids": [498]
+  },
+  {
+    "solution_group_id": 162,
+    "solution_group_name": "Long Term Care",
+    "solution_ids": [501, 504, 507]
+  },
+  {
+    "solution_group_id": 165,
+    "solution_group_name": "Millennium Clinical - Behavioral Health",
+    "solution_ids": [510]
+  },
+  {
+    "solution_group_id": 168,
+    "solution_group_name": "Millennium Clinical - Cardiovascular",
+    "solution_ids": [513, 516]
+  },
+  {
+    "solution_group_id": 171,
+    "solution_group_name": "Millennium Clinical - Emergency Medicine",
+    "solution_ids": [519]
+  },
+  {
+    "solution_group_id": 174,
+    "solution_group_name": "Millennium Clinical - EMR",
+    "solution_ids": [
+      522,
+      525,
+      528,
+      531,
+      534,
+      537,
+      540,
+      543,
+      546,
+      549,
+      552,
+      555,
+      558,
+      561,
+      564
+    ]
+  },
+  {
+    "solution_group_id": 177,
+    "solution_group_name": "Millennium Clinical - Laboratory",
+    "solution_ids": [567, 570, 573, 576, 579, 582, 585, 588]
+  },
+  {
+    "solution_group_id": 180,
+    "solution_group_name": "Millennium Clinical - Nursing",
+    "solution_ids": [
+      591,
+      594,
+      597,
+      600,
+      603,
+      606,
+      609,
+      612,
+      615,
+      618,
+      621,
+      624,
+      627,
+      630,
+      633,
+      636,
+      639,
+      642,
+      645,
+      648,
+      651
+    ]
+  },
+  {
+    "solution_group_id": 183,
+    "solution_group_name": "Millennium Clinical - Oncology",
+    "solution_ids": [654]
+  },
+  {
+    "solution_group_id": 186,
+    "solution_group_name": "Millennium Clinical - Perioperative",
+    "solution_ids": [657, 660, 663]
+  },
+  {
+    "solution_group_id": 189,
+    "solution_group_name": "Millennium Clinical - Pharmacy",
+    "solution_ids": [666, 669, 672, 675, 678]
+  },
+  {
+    "solution_group_id": 192,
+    "solution_group_name": "Millennium Clinical - Radiology",
+    "solution_ids": [681]
+  },
+  {
+    "solution_group_id": 195,
+    "solution_group_name": "Millennium Clinical - Rehab",
+    "solution_ids": [684]
+  },
+  {
+    "solution_group_id": 198,
+    "solution_group_name": "Millennium Clinical - Supply Chain",
+    "solution_ids": [687]
+  },
+  {
+    "solution_group_id": 201,
+    "solution_group_name": "Millennium Clinical - Women's Health",
+    "solution_ids": [690]
+  },
+  {
+    "solution_group_id": 204,
+    "solution_group_name": "Millennium RevCycle - Access",
+    "solution_ids": [693, 696, 699, 702, 705]
+  },
+  {
+    "solution_group_id": 207,
+    "solution_group_name": "Millennium RevCycle - Acute Case Management",
+    "solution_ids": [708]
+  },
+  {
+    "solution_group_id": 210,
+    "solution_group_name": "Millennium RevCycle - Alternative Payment Models",
+    "solution_ids": [711]
+  },
+  {
+    "solution_group_id": 213,
+    "solution_group_name": "Millennium RevCycle - Clinical Reporting",
+    "solution_ids": [714]
+  },
+  {
+    "solution_group_id": 216,
+    "solution_group_name": "Millennium RevCycle - Contract Management",
+    "solution_ids": [717]
+  },
+  {
+    "solution_group_id": 219,
+    "solution_group_name": "Millennium RevCycle - HIM",
+    "solution_ids": [720]
+  },
+  {
+    "solution_group_id": 222,
+    "solution_group_name": "Millennium RevCycle - Patient Accounting",
+    "solution_ids": [723, 726]
+  },
+  {
+    "solution_group_id": 225,
+    "solution_group_name": "Millennium Services and Platform Dev",
+    "solution_ids": [
+      729,
+      732,
+      735,
+      738,
+      741,
+      744,
+      747,
+      750,
+      753,
+      756,
+      759,
+      762,
+      765,
+      768,
+      771,
+      774,
+      777,
+      780,
+      783
+    ]
+  },
+  {
+    "solution_group_id": 228,
+    "solution_group_name": "Millennium+ Platform",
+    "solution_ids": [786]
+  },
+  {
+    "solution_group_id": 231,
+    "solution_group_name": "MPages",
+    "solution_ids": [
+      789,
+      792,
+      795,
+      798,
+      801,
+      804,
+      807,
+      810,
+      813,
+      816,
+      819,
+      822,
+      825,
+      828,
+      831,
+      834,
+      837,
+      840,
+      843,
+      846,
+      849,
+      852,
+      855,
+      858,
+      861,
+      864,
+      867,
+      870,
+      873,
+      876,
+      879,
+      882,
+      885,
+      888,
+      891,
+      894,
+      897,
+      900,
+      903,
+      906,
+      909,
+      912,
+      915,
+      918,
+      921,
+      924,
+      927,
+      930,
+      933,
+      936,
+      939,
+      942,
+      945,
+      948,
+      951,
+      954,
+      957,
+      960,
+      963,
+      966,
+      969,
+      972,
+      975,
+      978,
+      981,
+      984,
+      987,
+      990,
+      993,
+      996,
+      999,
+      1002,
+      1005,
+      1008,
+      1011,
+      1014,
+      1017,
+      1020,
+      1023,
+      1026,
+      1029,
+      1032,
+      1035,
+      1038,
+      1041,
+      1044,
+      1047,
+      1050,
+      1053,
+      1056,
+      1059,
+      1062,
+      1065,
+      1068,
+      1071,
+      1074,
+      1077,
+      1080,
+      1083,
+      1086,
+      1089,
+      1092,
+      1095,
+      1098,
+      1101,
+      1104,
+      1107,
+      1110,
+      1113,
+      1116,
+      1119,
+      1122,
+      1125
+    ]
+  },
+  {
+    "solution_group_id": 234,
+    "solution_group_name": "Network Services",
+    "solution_ids": [1128, 1131, 1134, 1137, 1140, 1143, 1146, 1149, 1152]
+  },
+  {
+    "solution_group_id": 237,
+    "solution_group_name": "Operational Reporting",
+    "solution_ids": [1155]
+  },
+  {
+    "solution_group_id": 240,
+    "solution_group_name": "Outreach",
+    "solution_ids": [1158, 1161, 1164]
+  },
+  {
+    "solution_group_id": 243,
+    "solution_group_name": "Performance Improvement",
+    "solution_ids": [1167, 1170, 1173, 1176, 1179, 1182, 1185, 1188]
+  },
+  {
+    "solution_group_id": 246,
+    "solution_group_name": "Population Health Analytics",
+    "solution_ids": [1191, 1194]
+  },
+  {
+    "solution_group_id": 249,
+    "solution_group_name": "Population Health Management",
+    "solution_ids": [
+      1197,
+      1200,
+      1203,
+      1206,
+      1209,
+      1212,
+      1215,
+      1218,
+      1221,
+      1224,
+      1227,
+      1230,
+      1233,
+      1236,
+      1239,
+      1242,
+      1245,
+      1248,
+      1251,
+      1254
+    ]
+  },
+  {
+    "solution_group_id": 252,
+    "solution_group_name": "PowerChart Touch",
+    "solution_ids": [
+      1257,
+      1260,
+      1263,
+      1266,
+      1269,
+      1272,
+      1275,
+      1278,
+      1281,
+      1284,
+      1287,
+      1290,
+      1293,
+      1296,
+      1299,
+      1302
+    ]
+  },
+  {
+    "solution_group_id": 255,
+    "solution_group_name": "Research",
+    "solution_ids": [1305, 1308]
+  },
+  {
+    "solution_group_id": 258,
+    "solution_group_name": "Retail Pharmacy",
+    "solution_ids": [1311]
+  },
+  {
+    "solution_group_id": 261,
+    "solution_group_name": "Revenue Cycle Analytics",
+    "solution_ids": [1314]
+  },
+  {
+    "solution_group_id": 264,
+    "solution_group_name": "Revenue Cycle Transaction Services",
+    "solution_ids": [
+      1317,
+      1320,
+      1323,
+      1326,
+      1329,
+      1332,
+      1335,
+      1338,
+      1341,
+      1344,
+      1347,
+      1350
+    ]
+  },
+  {
+    "solution_group_id": 267,
+    "solution_group_name": "Soarian Clinicals",
+    "solution_ids": [
+      1353,
+      1356,
+      1359,
+      1362,
+      1365,
+      1368,
+      1371,
+      1374,
+      1377,
+      1380,
+      1383,
+      1386,
+      1389
+    ]
+  },
+  {
+    "solution_group_id": 270,
+    "solution_group_name": "Soarian Financials - Access",
+    "solution_ids": [1392, 1395]
+  },
+  {
+    "solution_group_id": 273,
+    "solution_group_name": "Soarian Financials - Analytics",
+    "solution_ids": [1398]
+  },
+  {
+    "solution_group_id": 276,
+    "solution_group_name": "Soarian Financials - Contract Management",
+    "solution_ids": [1401]
+  },
+  {
+    "solution_group_id": 279,
+    "solution_group_name": "Soarian Financials - Foundations",
+    "solution_ids": [1404]
+  },
+  {
+    "solution_group_id": 282,
+    "solution_group_name": "Soarian Financials - Patient Accounting",
+    "solution_ids": [1407, 1410, 1413]
+  },
+  {
+    "solution_group_id": 285,
+    "solution_group_name": "Standalone Clinical",
+    "solution_ids": [1416, 1419, 1422, 1425]
+  },
+  {
+    "solution_group_id": 288,
+    "solution_group_name": "Standalone Global RevCycle",
+    "solution_ids": [1428, 1431, 1434, 1437, 1440, 1443, 1446]
+  },
+  {
+    "solution_group_id": 291,
+    "solution_group_name": "Workforce Management",
+    "solution_ids": [1449]
+  }
+]

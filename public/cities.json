@@ -1,0 +1,223 @@
+ [{
+ 		"city_id": "1",
+ 		"city_name": "Eshkashem",
+ 		"state_id": 1,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "2",
+ 		"city_name": "Fayzabad",
+ 		"state_id": 1,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "3",
+ 		"city_name": "Jurm",
+ 		"state_id": 1,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "4",
+ 		"city_name": "Khandud",
+ 		"state_id": 1,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "5",
+ 		"city_name": "Qal\\'eh-ye Panjeh",
+ 		"state_id": 1,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "6",
+ 		"city_name": "Bala Morghab",
+ 		"state_id": 2,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "7",
+ 		"city_name": "Qal\\'eh-ye Naw",
+ 		"state_id": 2,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "8",
+ 		"city_name": "Andarab",
+ 		"state_id": 3,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "9",
+ 		"city_name": "Baghlan",
+ 		"state_id": 3,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "10",
+ 		"city_name": "Dahaneh-ye Ghawri",
+ 		"state_id": 3,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "11",
+ 		"city_name": "Nahrin",
+ 		"state_id": 3,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "12",
+ 		"city_name": "Pol-e Khumri",
+ 		"state_id": 3,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "13",
+ 		"city_name": "Balkh",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "14",
+ 		"city_name": "Dawlatabad",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "15",
+ 		"city_name": "Mazar-e Sharif",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "16",
+ 		"city_name": "Qarchi Gak",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "17",
+ 		"city_name": "Shulgara",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "18",
+ 		"city_name": "Tash Gozar",
+ 		"state_id": 4,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "19",
+ 		"city_name": "Bamiyan",
+ 		"state_id": 5,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "20",
+ 		"city_name": "Panjab",
+ 		"state_id": 5,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "21",
+ 		"city_name": "Qil Qal\\'eh",
+ 		"state_id": 5,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "22",
+ 		"city_name": "Anar Darreh",
+ 		"state_id": 6,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "23",
+ 		"city_name": "Farah",
+ 		"state_id": 6,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "24",
+ 		"city_name": "Shindand",
+ 		"state_id": 6,
+ 		"country_id": 1
+ 	},
+ 	{
+ 		"city_id": "25",
+ 		"city_name": "Addanki",
+ 		"state_id": 7,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "26",
+ 		"city_name": "Adivivaram",
+ 		"state_id": 7,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "27",
+ 		"city_name": "Adoni",
+ 		"state_id": 7,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "28",
+ 		"city_name": "Along",
+ 		"state_id": 8,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "29",
+ 		"city_name": "Basar",
+ 		"state_id": 8,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "30",
+ 		"city_name": "Abhayapuri",
+ 		"state_id": 9,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "31",
+ 		"city_name": "Amarpur",
+ 		"state_id": 10,
+ 		"country_id": 2
+ 	},
+ 	{
+ 		"city_id": "32",
+ 		"city_name": "Lhokseumawe",
+ 		"state_id": 11,
+ 		"country_id": 3
+ 	},
+ 	{
+ 		"city_id": "33",
+ 		"city_name": "Denpasar",
+ 		"state_id": 12,
+ 		"country_id": 3
+ 	},
+ 	{
+ 		"city_id": "34",
+ 		"city_name": "Karangasem",
+ 		"state_id": 12,
+ 		"country_id": 3
+ 	},
+ 	{
+ 		"city_id": "35",
+ 		"city_name": "Manggar",
+ 		"state_id": 13,
+ 		"country_id": 3
+ 	},
+ 	{
+ 		"city_id": "36",
+ 		"city_name": "Cikupa",
+ 		"state_id": 14,
+ 		"country_id": 3
+ 	},
+ 	{
+ 		"city_id": "37",
+ 		"city_name": "Cilegon",
+ 		"state_id": 14,
+ 		"country_id": 3
+ 	}
+ ]

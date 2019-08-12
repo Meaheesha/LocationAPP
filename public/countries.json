@@ -1,0 +1,30 @@
+[{
+	"country_id": 1,
+	"country_name": "Afghanistan",
+	"state_ids": [
+		1,
+		2,
+		3,
+		4,
+		5,
+		6
+	]
+}, {
+	"country_id": 2,
+	"country_name": "India",
+	"state_ids": [
+		7,
+		8,
+		9,
+		10
+	]
+}, {
+	"country_id": 3,
+	"country_name": "Indonesia",
+	"state_ids": [
+		11,
+		12,
+		13,
+		14
+	]
+}]

@@ -1,0 +1,51 @@
+@import '~terra-mixins';
+
+.clear-indicator {
+  padding: 0 5px;
+}
+
+.dropdown-item {
+  background-color: #fff;
+  font-size: 1em;
+}
+
+.dropdown-item-empty {
+  display: flex;
+  align-items: center;
+  padding: 8px 15px;
+  color: #bdbdbd;
+}
+
+.dropdown-option {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  line-height: var(--tricorder-js-v0--terra-select-option-line-height, 1.125);
+  font-size: 1em;
+}
+
+.dropdown-option-checkbox {
+  display: inline-block; // IE 10
+  flex-shrink: 0;
+  height: var(--tricorder-js-v0--terra-select-option-icon-height, 1.143rem);
+  width: var(--tricorder-js-v0--terra-select-option-icon-width, 1.143rem);
+  margin-right: var(--tricorder-js-v0--terra-select-option-icon-margin-right, 0.714rem);
+  background: var(--tricorder-js-v0--terra-select-option-icon-active-background);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  visibility: hidden;
+}
+
+.is-selected {
+  visibility: visible;
+}
+
+.dropdown-option-display {
+  overflow: hidden;
+  word-break: break-word;
+  word-wrap: break-word;
+  color: #000;
+}
